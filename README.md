@@ -6,6 +6,7 @@ Principais recursos trabalhados:
 * Mapeamento de imagens e detalhes técnicos
 * Imagens com efeitos
 * Compartilhamento de vídeo e áudio
+* Funções JavaScript
 * Criação de formulário completo para cadastro do usuário e compra
 
 ---
