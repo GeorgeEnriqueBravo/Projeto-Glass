@@ -17,6 +17,7 @@ Você pode acessar a página do projeto
 .
 
 ---
+## Project Glass
 
 O __*Google Glass*__ é um dispositivo semelhante a um par de óculos, que fixados em um dos olhos, disponibiliza uma pequena tela acima do campo de visão. A pequena tela apresenta ao seu utilizador mapas, opções de música, previsão do tempo e rotas de mapas; e além disso, também é possível efetuar chamadas de vídeo ou tirar fotos de algo que se esteja a ver; e compartilhar imediatamente através da internet.
 
