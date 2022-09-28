@@ -1,6 +1,13 @@
 # Bem vindo ao Projeto Glass!
 Eu desenvolvi um site completo utilizando as principais funções de HTML5/CSS3 e algumas funções de JavaScript também, aonde o usuário pode conferir tudo sobre o Project Glass, que foi o tema abordado para desenvolvermos o site durante o curso.
 
+Principais funções trabalhadas:
+* Interface 100% estilizada por CSS3
+* Mapeamento de imagens e detalhes técnicos
+* Imagens com efeitos
+* Compartilhamento de vídeo e áudio
+* Criação de formulário completo para cadastro do usuário e compra
+
 ---
 
 Você pode acessar a página do projeto 
