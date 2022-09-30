@@ -11,7 +11,7 @@ Principais recursos trabalhados:
 
 ---
 
-Você pode acessar a página do projeto 
+Você pode acessar a página do meu projeto 
 <a href="https://georgeenriquebravo.github.io/Projeto-Glass/" target="_blank">
     clicando aqui
 </a>
