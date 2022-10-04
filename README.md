@@ -18,7 +18,7 @@ __Você pode acessar a página do meu projeto__
 .
 
 ---
-## Project Glass <img width="5%" alt="👓" src="imagens/glass-oculos-preto-peq.png"/>
+## <img width="5%" alt="👓" src="imagens/glass-esquema-marcado-png.png"/> Project Glass <img width="5%" alt="👓" src="imagens/glass-oculos-preto-peq.png"/>
 
 O __*Google Glass*__ é um dispositivo semelhante a um par de óculos, que fixados em um dos olhos, disponibiliza uma pequena tela acima do campo de visão. A pequena tela apresenta ao seu utilizador mapas, opções de música, previsão do tempo e rotas de mapas; e além disso, também é possível efetuar chamadas de vídeo ou tirar fotos de algo que se esteja a ver; e compartilhar imediatamente através da internet.
 
