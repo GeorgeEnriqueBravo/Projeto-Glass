@@ -24,7 +24,7 @@ O __*Google Glass*__ é um dispositivo semelhante a um par de óculos, que fixad
 
 ---
 
-# Tecnologias Utilizadas
+# Tecnologias Utilizadas <img width="35px" alt="🌐" src="imagens/tag.gif"/>
 Nesse projeto foram utilizadas as seguintes tecnologias:
 <div style="display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
